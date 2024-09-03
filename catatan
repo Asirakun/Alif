@@ -1,0 +1,9 @@
+python meimiliki 2 typical data:
+1. tipe data primitif
+2. tipe tidak primitif
+
+tipe data primitif
+- integer (int) digunakan untuk nilai numerical
+- string (str) digunakan untuk setiap data yang non numerical : Character A-Z, 0-9, Special character 
+- Float (float) -> decimal (berkoma)
+- Boolean (bool) -> True/False 
